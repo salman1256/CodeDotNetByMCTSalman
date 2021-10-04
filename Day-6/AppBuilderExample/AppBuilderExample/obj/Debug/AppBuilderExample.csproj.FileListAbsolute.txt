@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\bin\Debug\AppBuilderExample.exe.config
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\bin\Debug\AppBuilderExample.exe
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\bin\Debug\AppBuilderExample.pdb
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\obj\Debug\AppBuilderExample.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\obj\Debug\AppBuilderExample.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\obj\Debug\AppBuilderExample.exe
+D:\Xebia-B-1\Day-6\AppBuilderExample\AppBuilderExample\obj\Debug\AppBuilderExample.pdb

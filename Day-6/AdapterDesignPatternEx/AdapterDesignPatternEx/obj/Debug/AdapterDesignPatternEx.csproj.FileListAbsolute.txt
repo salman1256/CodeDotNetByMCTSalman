@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\bin\Debug\AdapterDesignPatternEx.exe.config
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\bin\Debug\AdapterDesignPatternEx.exe
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\bin\Debug\AdapterDesignPatternEx.pdb
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\obj\Debug\AdapterDesignPatternEx.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\obj\Debug\AdapterDesignPatternEx.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\obj\Debug\AdapterDesignPatternEx.exe
+D:\Xebia-B-1\Day-6\AdapterDesignPatternEx\AdapterDesignPatternEx\obj\Debug\AdapterDesignPatternEx.pdb

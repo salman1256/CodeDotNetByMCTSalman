@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.exe.config
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.exe
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.pdb
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.exe
+D:\Xebia-B-1\Day-6\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.pdb

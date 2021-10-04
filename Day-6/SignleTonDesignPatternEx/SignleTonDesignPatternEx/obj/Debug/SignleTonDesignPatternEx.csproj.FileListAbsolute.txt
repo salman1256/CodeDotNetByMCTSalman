@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\bin\Debug\SignleTonDesignPatternEx.exe.config
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\bin\Debug\SignleTonDesignPatternEx.exe
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\bin\Debug\SignleTonDesignPatternEx.pdb
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\obj\Debug\SignleTonDesignPatternEx.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\obj\Debug\SignleTonDesignPatternEx.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\obj\Debug\SignleTonDesignPatternEx.exe
+D:\Xebia-B-1\Day-6\SignleTonDesignPatternEx\SignleTonDesignPatternEx\obj\Debug\SignleTonDesignPatternEx.pdb

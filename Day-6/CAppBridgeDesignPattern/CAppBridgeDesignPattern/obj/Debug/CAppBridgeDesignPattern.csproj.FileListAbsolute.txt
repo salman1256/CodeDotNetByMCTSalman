@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\bin\Debug\CAppBridgeDesignPattern.exe.config
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\bin\Debug\CAppBridgeDesignPattern.exe
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\bin\Debug\CAppBridgeDesignPattern.pdb
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\obj\Debug\CAppBridgeDesignPattern.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\obj\Debug\CAppBridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\obj\Debug\CAppBridgeDesignPattern.exe
+D:\Xebia-B-1\Day-6\CAppBridgeDesignPattern\CAppBridgeDesignPattern\obj\Debug\CAppBridgeDesignPattern.pdb
