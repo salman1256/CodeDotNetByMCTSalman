@@ -1,0 +1,7 @@
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe.config
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.exe
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\IteratorDesignPattern.pdb
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csprojAssemblyReference.cache
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.exe
+D:\Xebia-B-1\Day-7\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\IteratorDesignPattern.pdb
